@@ -1,0 +1,15 @@
+type of system: file or dbpull
+  file
+    type of file:
+      binary
+      flat file
+        delimited
+          delimiter
+        xml
+        log
+    no of files:
+      one
+      more then one
+  db
+  
+  
